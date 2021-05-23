@@ -1,11 +1,6 @@
 
 CREATE DATABASE firstapi;
 
-\l
-
-\c firstapi;
-
-
 select * from users;
 
 CREATE TABLE employee (
