@@ -1,6 +1,5 @@
 import express, { Application } from 'express';
 
-
 import employeeRoutes from './routes/department';
 import departmentRoutes from "./routes/employee";
 
